@@ -1,4 +1,11 @@
-github.com
+brntn.me
+utils.brntn.me
+login-required.brntn.me
+bookmarks.brntn.me
+hn500.brntn.me
+runrandomly.com
+
+abc.net.au
 fastmail.com
 example.com
 news.ycombinator.com
