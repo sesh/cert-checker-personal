@@ -21,13 +21,15 @@ Use this template to create a version of the project in your Github account, the
 | Expiry    | Domain   |
 |-----------|----------|
 | 2022-06-01 | abc.net.au |
-| 2022-06-03 | runrandomly.com |
 | 2022-06-09 | dockerwatch.net |
 | 2022-06-23 | utils.brntn.me |
 | 2022-06-23 | login-required.brntn.me |
 | 2022-06-23 | bookmarks.brntn.me |
 | 2022-06-23 | hn500.brntn.me |
 | 2022-07-13 | brntn.me |
+| 2022-07-13 | www.brntn.me |
+| 2022-07-13 | runrandomly.com |
+| 2022-07-13 | www.runrandomly.com |
 | 2022-10-08 | news.ycombinator.com |
 | 2022-10-27 | fastmail.com |
 | 2023-03-14 | example.com |
