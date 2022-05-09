@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2022-06-01 | abc.net.au |
 | 2022-06-09 | dockerwatch.net |
 | 2022-06-23 | utils.brntn.me |
 | 2022-06-23 | login-required.brntn.me |
@@ -33,3 +32,4 @@ Use this template to create a version of the project in your Github account, the
 | 2022-10-08 | news.ycombinator.com |
 | 2022-10-27 | fastmail.com |
 | 2023-03-14 | example.com |
+| 2023-05-22 | abc.net.au |
