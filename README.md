@@ -30,6 +30,6 @@ Use this template to create a version of the project in your Github account, the
 | 2022-08-08 | dockerwatch.net |
 | 2022-08-09 | www.brntn.me |
 | 2022-10-08 | news.ycombinator.com |
-| 2022-10-27 | fastmail.com |
+| 2022-10-28 | fastmail.com |
 | 2023-03-14 | example.com |
 | 2023-05-22 | abc.net.au |
