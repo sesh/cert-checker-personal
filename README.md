@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2022-08-22 | bookmarks.brntn.me |
 | 2022-08-28 | brntn.me |
 | 2022-08-28 | www.brntn.me |
 | 2022-09-11 | runrandomly.com |
@@ -29,6 +28,7 @@ Use this template to create a version of the project in your Github account, the
 | 2022-10-20 | utils.brntn.me |
 | 2022-10-20 | login-required.brntn.me |
 | 2022-10-20 | hn500.brntn.me |
+| 2022-10-21 | bookmarks.brntn.me |
 | 2022-10-28 | fastmail.com |
 | 2022-12-04 | news.ycombinator.com |
 | 2023-03-14 | example.com |
