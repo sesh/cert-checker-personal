@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2022-09-11 | runrandomly.com |
-| 2022-09-11 | www.runrandomly.com |
 | 2022-10-06 | dockerwatch.net |
 | 2022-10-20 | utils.brntn.me |
 | 2022-10-20 | login-required.brntn.me |
@@ -30,6 +28,8 @@ Use this template to create a version of the project in your Github account, the
 | 2022-10-27 | brntn.me |
 | 2022-10-27 | www.brntn.me |
 | 2022-10-28 | fastmail.com |
+| 2022-11-09 | runrandomly.com |
+| 2022-11-09 | www.runrandomly.com |
 | 2022-12-04 | news.ycombinator.com |
 | 2023-03-14 | example.com |
 | 2023-05-22 | abc.net.au |
