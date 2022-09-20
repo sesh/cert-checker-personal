@@ -20,9 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2022-10-20 | utils.brntn.me |
-| 2022-10-20 | login-required.brntn.me |
-| 2022-10-20 | hn500.brntn.me |
 | 2022-10-21 | bookmarks.brntn.me |
 | 2022-10-23 | loginwith.space |
 | 2022-10-23 | www.loginwith.space |
@@ -34,6 +31,9 @@ Use this template to create a version of the project in your Github account, the
 | 2022-12-01 | django-up.com |
 | 2022-12-01 | www.django-up.com |
 | 2022-12-05 | dockerwatch.net |
+| 2022-12-19 | utils.brntn.me |
+| 2022-12-19 | login-required.brntn.me |
+| 2022-12-19 | hn500.brntn.me |
 | 2023-03-14 | example.com |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
