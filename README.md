@@ -33,6 +33,7 @@ Use this template to create a version of the project in your Github account, the
 | 2022-12-26 | www.brntn.me |
 | 2023-01-08 | runrandomly.com |
 | 2023-01-08 | www.runrandomly.com |
+| 2023-01-20 | delta-v.club |
 | 2023-03-14 | example.com |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
