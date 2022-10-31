@@ -22,7 +22,6 @@ Use this template to create a version of the project in your Github account, the
 |-----------|----------|
 | 2022-12-05 | dockerwatch.net |
 | 2022-12-19 | login-required.brntn.me |
-| 2022-12-20 | bookmarks.brntn.me |
 | 2022-12-22 | loginwith.space |
 | 2022-12-22 | www.loginwith.space |
 | 2023-01-26 | utils.brntn.me |
@@ -34,6 +33,7 @@ Use this template to create a version of the project in your Github account, the
 | 2023-01-27 | www.brntn.me |
 | 2023-01-27 | hn500.brntn.me |
 | 2023-01-27 | delta-v.club |
+| 2023-01-29 | bookmarks.brntn.me |
 | 2023-03-14 | example.com |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
