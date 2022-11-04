@@ -40,4 +40,4 @@ Use this template to create a version of the project in your Github account, the
 | 2023-05-22 | abc.net.au |
 | 2023-09-25 | news.ycombinator.com |
 | 2023-11-02 | fastmail.com |
-| UnknownSSLFailure | login-required.brntn.me |
+| SSLConnectionFailed | login-required.brntn.me |
