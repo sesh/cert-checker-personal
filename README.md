@@ -32,6 +32,8 @@ Use this template to create a version of the project in your Github account, the
 | 2023-01-29 | bookmarks.brntn.me |
 | 2023-01-30 | dockerwatch.net |
 | 2023-01-30 | www.dockerwatch.net |
+| 2023-02-20 | loginwith.space |
+| 2023-02-20 | www.loginwith.space |
 | 2023-03-14 | example.com |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
@@ -39,5 +41,3 @@ Use this template to create a version of the project in your Github account, the
 | 2023-09-25 | news.ycombinator.com |
 | 2023-11-02 | fastmail.com |
 | UnknownSSLFailure | login-required.brntn.me |
-| UnknownSSLFailure | loginwith.space |
-| UnknownSSLFailure | www.loginwith.space |
