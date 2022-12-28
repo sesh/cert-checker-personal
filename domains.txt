@@ -2,7 +2,6 @@ brntn.me
 www.brntn.me
 
 utils.brntn.me
-login-required.brntn.me
 bookmarks.brntn.me
 hn500.brntn.me
 
