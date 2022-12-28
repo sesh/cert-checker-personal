@@ -26,3 +26,10 @@ abc.net.au
 fastmail.com
 example.com
 news.ycombinator.com
+
+requestheaders.dev
+www.requestheaders.dev
+
+webdevctf.com
+www.webdevctf.com
+clues.webdevctf.com
