@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-01-29 | bookmarks.brntn.me |
 | 2023-01-30 | dockerwatch.net |
 | 2023-01-30 | www.dockerwatch.net |
 | 2023-02-07 | webdevctf.com |
@@ -40,6 +39,7 @@ Use this template to create a version of the project in your Github account, the
 | 2023-03-28 | brntn.me |
 | 2023-03-28 | www.brntn.me |
 | 2023-03-28 | delta-v.club |
+| 2023-03-29 | bookmarks.brntn.me |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
 | 2023-05-22 | abc.net.au |
