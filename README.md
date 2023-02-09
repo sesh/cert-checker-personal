@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-03-11 | clues.webdevctf.com |
 | 2023-03-27 | utils.brntn.me |
 | 2023-03-27 | hn500.brntn.me |
 | 2023-03-27 | runrandomly.com |
@@ -39,6 +38,7 @@ Use this template to create a version of the project in your Github account, the
 | 2023-04-20 | www.requestheaders.dev |
 | 2023-04-21 | loginwith.space |
 | 2023-04-21 | www.loginwith.space |
+| 2023-05-09 | clues.webdevctf.com |
 | 2023-05-11 | basehtml.xyz |
 | 2023-05-11 | www.basehtml.xyz |
 | 2023-05-22 | abc.net.au |
