@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-04-07 | webdevctf.com |
-| 2023-04-07 | www.webdevctf.com |
 | 2023-04-20 | requestheaders.dev |
 | 2023-04-20 | www.requestheaders.dev |
 | 2023-04-21 | loginwith.space |
@@ -42,6 +40,8 @@ Use this template to create a version of the project in your Github account, the
 | 2023-05-28 | delta-v.club |
 | 2023-05-29 | dockerwatch.net |
 | 2023-05-29 | www.dockerwatch.net |
+| 2023-06-06 | webdevctf.com |
+| 2023-06-06 | www.webdevctf.com |
 | 2023-09-25 | news.ycombinator.com |
 | 2023-11-02 | fastmail.com |
 | 2024-02-13 | example.com |
