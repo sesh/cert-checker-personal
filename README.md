@@ -20,12 +20,7 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-05-26 | utils.brntn.me |
 | 2023-05-26 | hn500.brntn.me |
-| 2023-05-26 | runrandomly.com |
-| 2023-05-26 | www.runrandomly.com |
-| 2023-05-26 | django-up.com |
-| 2023-05-26 | www.django-up.com |
 | 2023-05-28 | brntn.me |
 | 2023-05-28 | www.brntn.me |
 | 2023-05-28 | bookmarks.brntn.me |
@@ -41,6 +36,11 @@ Use this template to create a version of the project in your Github account, the
 | 2023-07-08 | clues.webdevctf.com |
 | 2023-07-10 | basehtml.xyz |
 | 2023-07-10 | www.basehtml.xyz |
+| 2023-07-25 | utils.brntn.me |
+| 2023-07-25 | runrandomly.com |
+| 2023-07-25 | www.runrandomly.com |
+| 2023-07-25 | django-up.com |
+| 2023-07-25 | www.django-up.com |
 | 2023-09-25 | news.ycombinator.com |
 | 2023-11-02 | fastmail.com |
 | 2024-02-13 | example.com |
