@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-05-26 | hn500.brntn.me |
 | 2023-05-28 | brntn.me |
 | 2023-05-28 | www.brntn.me |
 | 2023-05-28 | bookmarks.brntn.me |
@@ -37,6 +36,7 @@ Use this template to create a version of the project in your Github account, the
 | 2023-07-10 | basehtml.xyz |
 | 2023-07-10 | www.basehtml.xyz |
 | 2023-07-25 | utils.brntn.me |
+| 2023-07-25 | hn500.brntn.me |
 | 2023-07-25 | runrandomly.com |
 | 2023-07-25 | www.runrandomly.com |
 | 2023-07-25 | django-up.com |
