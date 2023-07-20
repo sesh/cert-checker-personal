@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-08-19 | loginwith.space |
-| 2023-08-19 | www.loginwith.space |
 | 2023-09-06 | clues.webdevctf.com |
 | 2023-09-07 | basehtml.xyz |
 | 2023-09-07 | www.basehtml.xyz |
@@ -42,6 +40,8 @@ Use this template to create a version of the project in your Github account, the
 | 2023-10-04 | www.webdevctf.com |
 | 2023-10-17 | requestheaders.dev |
 | 2023-10-17 | www.requestheaders.dev |
+| 2023-10-18 | loginwith.space |
+| 2023-10-18 | www.loginwith.space |
 | 2023-11-02 | fastmail.com |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
