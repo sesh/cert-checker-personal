@@ -20,12 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-09-22 | hn500.brntn.me |
-| 2023-09-23 | utils.brntn.me |
-| 2023-09-23 | runrandomly.com |
-| 2023-09-23 | www.runrandomly.com |
-| 2023-09-23 | django-up.com |
-| 2023-09-23 | www.django-up.com |
 | 2023-09-24 | dockerwatch.net |
 | 2023-09-24 | www.dockerwatch.net |
 | 2023-09-25 | brntn.me |
@@ -41,6 +35,12 @@ Use this template to create a version of the project in your Github account, the
 | 2023-11-05 | basehtml.xyz |
 | 2023-11-05 | www.basehtml.xyz |
 | 2023-11-05 | clues.webdevctf.com |
+| 2023-11-21 | hn500.brntn.me |
+| 2023-11-22 | utils.brntn.me |
+| 2023-11-22 | runrandomly.com |
+| 2023-11-22 | www.runrandomly.com |
+| 2023-11-22 | django-up.com |
+| 2023-11-22 | www.django-up.com |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
 | LookupFailed | loginwith.space |
