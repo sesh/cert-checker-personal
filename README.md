@@ -22,8 +22,6 @@ Use this template to create a version of the project in your Github account, the
 |-----------|----------|
 | 2023-09-24 | dockerwatch.net |
 | 2023-09-24 | www.dockerwatch.net |
-| 2023-09-25 | brntn.me |
-| 2023-09-25 | www.brntn.me |
 | 2023-09-25 | bookmarks.brntn.me |
 | 2023-09-25 | delta-v.club |
 | 2023-09-25 | news.ycombinator.com |
@@ -45,3 +43,5 @@ Use this template to create a version of the project in your Github account, the
 | 2024-05-03 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
+| SSLConnectionFailed | brntn.me |
+| SSLConnectionFailed | www.brntn.me |
