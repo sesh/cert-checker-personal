@@ -20,10 +20,7 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-09-24 | dockerwatch.net |
-| 2023-09-24 | www.dockerwatch.net |
 | 2023-09-25 | bookmarks.brntn.me |
-| 2023-09-25 | delta-v.club |
 | 2023-09-25 | news.ycombinator.com |
 | 2023-10-04 | webdevctf.com |
 | 2023-10-04 | www.webdevctf.com |
@@ -39,9 +36,12 @@ Use this template to create a version of the project in your Github account, the
 | 2023-11-22 | www.runrandomly.com |
 | 2023-11-22 | django-up.com |
 | 2023-11-22 | www.django-up.com |
+| 2023-11-23 | brntn.me |
+| 2023-11-23 | www.brntn.me |
+| 2023-11-23 | dockerwatch.net |
+| 2023-11-23 | www.dockerwatch.net |
+| 2023-11-24 | delta-v.club |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
-| SSLConnectionFailed | brntn.me |
-| SSLConnectionFailed | www.brntn.me |
