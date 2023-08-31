@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-09-25 | news.ycombinator.com |
 | 2023-10-04 | webdevctf.com |
 | 2023-10-04 | www.webdevctf.com |
 | 2023-11-02 | fastmail.com |
@@ -38,6 +37,7 @@ Use this template to create a version of the project in your Github account, the
 | 2023-11-26 | www.django-up.com |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
+| 2024-09-10 | news.ycombinator.com |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
 | LookupFailed | dockerwatch.net |
