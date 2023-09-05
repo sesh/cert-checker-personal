@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-10-04 | webdevctf.com |
-| 2023-10-04 | www.webdevctf.com |
 | 2023-11-02 | fastmail.com |
 | 2023-11-05 | basehtml.xyz |
 | 2023-11-05 | www.basehtml.xyz |
@@ -35,6 +33,8 @@ Use this template to create a version of the project in your Github account, the
 | 2023-11-25 | www.requestheaders.dev |
 | 2023-11-26 | django-up.com |
 | 2023-11-26 | www.django-up.com |
+| 2023-12-03 | webdevctf.com |
+| 2023-12-03 | www.webdevctf.com |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
 | 2024-09-10 | news.ycombinator.com |
