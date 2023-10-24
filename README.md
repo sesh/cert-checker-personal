@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-11-23 | brntn.me |
-| 2023-11-23 | www.brntn.me |
 | 2024-01-03 | basehtml.xyz |
 | 2024-01-03 | www.basehtml.xyz |
 | 2024-01-03 | webdevctf.com |
@@ -34,6 +32,8 @@ Use this template to create a version of the project in your Github account, the
 | 2024-01-20 | hn500.brntn.me |
 | 2024-01-20 | django-up.com |
 | 2024-01-20 | www.django-up.com |
+| 2024-01-22 | brntn.me |
+| 2024-01-22 | www.brntn.me |
 | 2024-02-13 | example.com |
 | 2024-05-03 | abc.net.au |
 | 2024-09-10 | news.ycombinator.com |
@@ -44,4 +44,4 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
 | LookupFailed | clues.webdevctf.com |
-| UnknownSSLFailure | bookmarks.brntn.me |
+| SSLConnectionFailed | bookmarks.brntn.me |
