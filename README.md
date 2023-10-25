@@ -44,4 +44,4 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
 | LookupFailed | clues.webdevctf.com |
-| SSLConnectionFailed | bookmarks.brntn.me |
+| UnknownSSLFailure | bookmarks.brntn.me |
