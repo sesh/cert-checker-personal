@@ -20,10 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2024-01-20 | utils.brntn.me |
-| 2024-01-20 | hn500.brntn.me |
-| 2024-01-20 | django-up.com |
-| 2024-01-20 | www.django-up.com |
 | 2024-01-22 | brntn.me |
 | 2024-01-22 | www.brntn.me |
 | 2024-02-13 | example.com |
@@ -35,6 +31,10 @@ Use this template to create a version of the project in your Github account, the
 | 2024-03-06 | www.runrandomly.com |
 | 2024-03-06 | requestheaders.dev |
 | 2024-03-06 | www.requestheaders.dev |
+| 2024-03-20 | utils.brntn.me |
+| 2024-03-20 | hn500.brntn.me |
+| 2024-03-20 | django-up.com |
+| 2024-03-20 | www.django-up.com |
 | 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2024-11-26 | abc.net.au |
