@@ -33,9 +33,9 @@ Use this template to create a version of the project in your Github account, the
 | 2024-03-20 | www.django-up.com |
 | 2024-03-22 | brntn.me |
 | 2024-03-22 | www.brntn.me |
+| 2024-04-01 | news.ycombinator.com |
 | 2024-04-01 | webdevctf.com |
 | 2024-04-01 | www.webdevctf.com |
-| 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2024-11-26 | abc.net.au |
 | LookupFailed | loginwith.space |
