@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2024-04-01 | webdevctf.com |
-| 2024-04-01 | www.webdevctf.com |
 | 2024-04-30 | basehtml.xyz |
 | 2024-04-30 | www.basehtml.xyz |
 | 2024-05-05 | runrandomly.com |
@@ -35,6 +33,8 @@ Use this template to create a version of the project in your Github account, the
 | 2024-05-21 | brntn.me |
 | 2024-05-21 | www.brntn.me |
 | 2024-05-21 | delta-v.club |
+| 2024-06-03 | webdevctf.com |
+| 2024-06-03 | www.webdevctf.com |
 | 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2025-01-17 | abc.net.au |
