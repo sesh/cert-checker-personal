@@ -30,7 +30,6 @@ Use this template to create a version of the project in your Github account, the
 | 2024-05-19 | hn500.brntn.me |
 | 2024-05-19 | django-up.com |
 | 2024-05-19 | www.django-up.com |
-| 2024-05-21 | delta-v.club |
 | 2024-06-03 | webdevctf.com |
 | 2024-06-03 | www.webdevctf.com |
 | 2024-06-07 | brntn.me |
@@ -41,7 +40,8 @@ Use this template to create a version of the project in your Github account, the
 | 2025-03-01 | example.com |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
-| LookupFailed | dockerwatch.net |
-| LookupFailed | www.dockerwatch.net |
+| LookupFailed | delta-v.club |
 | LookupFailed | clues.webdevctf.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
+| UnknownSSLFailure | dockerwatch.net |
+| UnknownSSLFailure | www.dockerwatch.net |
