@@ -34,6 +34,7 @@ Use this template to create a version of the project in your Github account, the
 | 2024-07-18 | hn500.brntn.me |
 | 2024-07-18 | django-up.com |
 | 2024-07-18 | www.django-up.com |
+| 2024-07-19 | webdevctf.com |
 | 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2025-01-17 | abc.net.au |
@@ -41,7 +42,6 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
 | LookupFailed | delta-v.club |
-| LookupFailed | webdevctf.com |
-| LookupFailed | www.webdevctf.com |
-| LookupFailed | clues.webdevctf.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
+| UnknownSSLFailure | www.webdevctf.com |
+| UnknownSSLFailure | clues.webdevctf.com |
