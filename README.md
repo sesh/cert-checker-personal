@@ -22,8 +22,6 @@ Use this template to create a version of the project in your Github account, the
 |-----------|----------|
 | 2024-06-07 | brntn.me |
 | 2024-06-07 | www.brntn.me |
-| 2024-06-21 | dockerwatch.net |
-| 2024-06-21 | www.dockerwatch.net |
 | 2024-06-28 | basehtml.xyz |
 | 2024-06-28 | www.basehtml.xyz |
 | 2024-07-04 | runrandomly.com |
@@ -35,13 +33,15 @@ Use this template to create a version of the project in your Github account, the
 | 2024-07-18 | django-up.com |
 | 2024-07-18 | www.django-up.com |
 | 2024-07-19 | webdevctf.com |
+| 2024-07-19 | www.webdevctf.com |
+| 2024-07-19 | clues.webdevctf.com |
 | 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2025-01-17 | abc.net.au |
 | 2025-03-01 | example.com |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
+| LookupFailed | dockerwatch.net |
+| LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
 | UnknownSSLFailure | bookmarks.brntn.me |
-| UnknownSSLFailure | www.webdevctf.com |
-| UnknownSSLFailure | clues.webdevctf.com |
