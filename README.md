@@ -30,9 +30,6 @@ Use this template to create a version of the project in your Github account, the
 | 2024-07-18 | hn500.brntn.me |
 | 2024-07-18 | django-up.com |
 | 2024-07-18 | www.django-up.com |
-| 2024-07-19 | webdevctf.com |
-| 2024-07-19 | www.webdevctf.com |
-| 2024-07-19 | clues.webdevctf.com |
 | 2024-08-05 | brntn.me |
 | 2024-08-05 | www.brntn.me |
 | 2024-09-10 | news.ycombinator.com |
@@ -44,4 +41,7 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | dockerwatch.net |
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
+| LookupFailed | webdevctf.com |
+| LookupFailed | www.webdevctf.com |
+| LookupFailed | clues.webdevctf.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
