@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2024-06-28 | basehtml.xyz |
-| 2024-06-28 | www.basehtml.xyz |
 | 2024-07-04 | runrandomly.com |
 | 2024-07-04 | www.runrandomly.com |
 | 2024-07-04 | requestheaders.dev |
@@ -32,6 +30,8 @@ Use this template to create a version of the project in your Github account, the
 | 2024-07-18 | www.django-up.com |
 | 2024-08-05 | brntn.me |
 | 2024-08-05 | www.brntn.me |
+| 2024-08-26 | basehtml.xyz |
+| 2024-08-26 | www.basehtml.xyz |
 | 2024-09-10 | news.ycombinator.com |
 | 2024-11-01 | fastmail.com |
 | 2025-01-17 | abc.net.au |
