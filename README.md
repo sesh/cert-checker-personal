@@ -36,6 +36,7 @@ Use this template to create a version of the project in your Github account, the
 | 2025-06-05 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
+| LookupFailed | django-up.com |
 | LookupFailed | dockerwatch.net |
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
@@ -43,5 +44,4 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | www.webdevctf.com |
 | LookupFailed | clues.webdevctf.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
-| UnknownSSLFailure | django-up.com |
 | UnknownSSLFailure | www.django-up.com |
