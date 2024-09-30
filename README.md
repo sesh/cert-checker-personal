@@ -36,12 +36,12 @@ Use this template to create a version of the project in your Github account, the
 | 2025-06-05 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
-| LookupFailed | django-up.com |
-| LookupFailed | www.django-up.com |
 | LookupFailed | dockerwatch.net |
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
 | LookupFailed | webdevctf.com |
 | LookupFailed | www.webdevctf.com |
 | LookupFailed | clues.webdevctf.com |
+| SSLConnectionFailed | django-up.com |
+| SSLConnectionFailed | www.django-up.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
