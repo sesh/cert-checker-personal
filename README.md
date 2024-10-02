@@ -20,11 +20,7 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2024-11-01 | runrandomly.com |
-| 2024-11-01 | www.runrandomly.com |
 | 2024-11-01 | fastmail.com |
-| 2024-11-01 | requestheaders.dev |
-| 2024-11-01 | www.requestheaders.dev |
 | 2024-11-15 | utils.brntn.me |
 | 2024-11-15 | hn500.brntn.me |
 | 2024-11-20 | news.ycombinator.com |
@@ -32,6 +28,10 @@ Use this template to create a version of the project in your Github account, the
 | 2024-12-03 | www.brntn.me |
 | 2024-12-23 | basehtml.xyz |
 | 2024-12-23 | www.basehtml.xyz |
+| 2024-12-31 | runrandomly.com |
+| 2024-12-31 | www.runrandomly.com |
+| 2024-12-31 | requestheaders.dev |
+| 2024-12-31 | www.requestheaders.dev |
 | 2025-03-01 | example.com |
 | 2025-06-05 | abc.net.au |
 | LookupFailed | loginwith.space |
