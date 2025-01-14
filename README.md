@@ -26,7 +26,6 @@ Use this template to create a version of the project in your Github account, the
 | 2025-02-28 | www.runrandomly.com |
 | 2025-02-28 | requestheaders.dev |
 | 2025-02-28 | www.requestheaders.dev |
-| 2025-03-01 | example.com |
 | 2025-03-15 | utils.brntn.me |
 | 2025-03-15 | hn500.brntn.me |
 | 2025-03-29 | news.ycombinator.com |
@@ -34,6 +33,7 @@ Use this template to create a version of the project in your Github account, the
 | 2025-04-02 | www.brntn.me |
 | 2025-11-03 | fastmail.com |
 | 2025-11-25 | abc.net.au |
+| 2026-02-14 | example.com |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
 | LookupFailed | dockerwatch.net |
