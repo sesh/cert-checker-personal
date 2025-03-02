@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2025-03-29 | news.ycombinator.com |
 | 2025-04-02 | brntn.me |
 | 2025-04-02 | www.brntn.me |
 | 2025-04-20 | basehtml.xyz |
@@ -31,6 +30,7 @@ Use this template to create a version of the project in your Github account, the
 | 2025-04-29 | www.requestheaders.dev |
 | 2025-05-14 | utils.brntn.me |
 | 2025-05-14 | hn500.brntn.me |
+| 2025-05-31 | news.ycombinator.com |
 | 2025-11-03 | fastmail.com |
 | 2025-11-25 | abc.net.au |
 | 2026-01-15 | example.com |
