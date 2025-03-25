@@ -27,10 +27,10 @@ Use this template to create a version of the project in your Github account, the
 | 2025-05-14 | utils.brntn.me |
 | 2025-05-14 | hn500.brntn.me |
 | 2025-05-31 | news.ycombinator.com |
-| 2025-06-01 | brntn.me |
-| 2025-06-01 | www.brntn.me |
 | 2025-06-18 | basehtml.xyz |
 | 2025-06-18 | www.basehtml.xyz |
+| 2025-06-23 | brntn.me |
+| 2025-06-23 | www.brntn.me |
 | 2025-11-03 | fastmail.com |
 | 2025-11-25 | abc.net.au |
 | 2026-01-15 | example.com |
