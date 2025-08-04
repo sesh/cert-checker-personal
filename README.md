@@ -31,7 +31,7 @@ Use this template to create a version of the project in your Github account, the
 | 2025-10-26 | www.runrandomly.com |
 | 2025-10-26 | requestheaders.dev |
 | 2025-10-26 | www.requestheaders.dev |
-| 2025-11-03 | fastmail.com |
+| 2025-11-02 | fastmail.com |
 | 2025-11-25 | abc.net.au |
 | 2026-01-15 | example.com |
 | LookupFailed | loginwith.space |
