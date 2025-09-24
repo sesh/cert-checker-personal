@@ -42,6 +42,6 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | webdevctf.com |
 | LookupFailed | www.webdevctf.com |
 | LookupFailed | clues.webdevctf.com |
-| SSLConnectionFailed | django-up.com |
-| SSLConnectionFailed | www.django-up.com |
 | UnknownSSLFailure | bookmarks.brntn.me |
+| UnknownSSLFailure | django-up.com |
+| UnknownSSLFailure | www.django-up.com |
