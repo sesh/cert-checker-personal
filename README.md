@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2025-11-02 | fastmail.com |
 | 2025-11-10 | utils.brntn.me |
 | 2025-11-10 | hn500.brntn.me |
 | 2025-11-19 | brntn.me |
@@ -32,6 +31,7 @@ Use this template to create a version of the project in your Github account, the
 | 2025-12-25 | www.runrandomly.com |
 | 2025-12-25 | requestheaders.dev |
 | 2025-12-25 | www.requestheaders.dev |
+| 2026-01-01 | fastmail.com |
 | 2026-01-15 | example.com |
 | 2026-09-24 | abc.net.au |
 | LookupFailed | loginwith.space |
