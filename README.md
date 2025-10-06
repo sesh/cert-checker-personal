@@ -20,17 +20,11 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2025-11-10 | utils.brntn.me |
-| 2025-11-10 | hn500.brntn.me |
 | 2025-11-19 | brntn.me |
 | 2025-11-19 | www.brntn.me |
 | 2025-12-06 | news.ycombinator.com |
 | 2025-12-13 | basehtml.xyz |
 | 2025-12-13 | www.basehtml.xyz |
-| 2025-12-25 | runrandomly.com |
-| 2025-12-25 | www.runrandomly.com |
-| 2025-12-25 | requestheaders.dev |
-| 2025-12-25 | www.requestheaders.dev |
 | 2026-01-01 | fastmail.com |
 | 2026-01-15 | example.com |
 | 2026-09-24 | abc.net.au |
@@ -42,6 +36,12 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | webdevctf.com |
 | LookupFailed | www.webdevctf.com |
 | LookupFailed | clues.webdevctf.com |
+| UnknownSSLFailure | utils.brntn.me |
 | UnknownSSLFailure | bookmarks.brntn.me |
+| UnknownSSLFailure | hn500.brntn.me |
+| UnknownSSLFailure | runrandomly.com |
+| UnknownSSLFailure | www.runrandomly.com |
 | UnknownSSLFailure | django-up.com |
 | UnknownSSLFailure | www.django-up.com |
+| UnknownSSLFailure | requestheaders.dev |
+| UnknownSSLFailure | www.requestheaders.dev |
