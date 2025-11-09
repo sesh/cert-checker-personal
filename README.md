@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2025-12-06 | news.ycombinator.com |
 | 2025-12-13 | basehtml.xyz |
 | 2025-12-13 | www.basehtml.xyz |
 | 2025-12-25 | runrandomly.com |
@@ -33,6 +32,7 @@ Use this template to create a version of the project in your Github account, the
 | 2026-01-15 | example.com |
 | 2026-01-18 | brntn.me |
 | 2026-01-18 | www.brntn.me |
+| 2026-02-07 | news.ycombinator.com |
 | 2026-09-24 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
