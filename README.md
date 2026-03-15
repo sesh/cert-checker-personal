@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2026-04-11 | news.ycombinator.com |
 | 2026-04-24 | runrandomly.com |
 | 2026-04-24 | www.runrandomly.com |
 | 2026-04-24 | requestheaders.dev |
@@ -33,6 +32,7 @@ Use this template to create a version of the project in your Github account, the
 | 2026-05-30 | www.brntn.me |
 | 2026-06-09 | basehtml.xyz |
 | 2026-06-09 | www.basehtml.xyz |
+| 2026-06-13 | news.ycombinator.com |
 | 2026-09-24 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
