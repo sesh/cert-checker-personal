@@ -24,8 +24,6 @@ Use this template to create a version of the project in your Github account, the
 | 2026-05-10 | utils.brntn.me |
 | 2026-05-10 | hn500.brntn.me |
 | 2026-05-14 | example.com |
-| 2026-05-30 | brntn.me |
-| 2026-05-30 | www.brntn.me |
 | 2026-06-09 | basehtml.xyz |
 | 2026-06-09 | www.basehtml.xyz |
 | 2026-06-13 | news.ycombinator.com |
@@ -33,6 +31,8 @@ Use this template to create a version of the project in your Github account, the
 | 2026-06-23 | www.runrandomly.com |
 | 2026-06-23 | requestheaders.dev |
 | 2026-06-23 | www.requestheaders.dev |
+| 2026-06-28 | brntn.me |
+| 2026-06-28 | www.brntn.me |
 | 2026-10-08 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
