@@ -25,14 +25,14 @@ Use this template to create a version of the project in your Github account, the
 | 2026-08-08 | utils.brntn.me |
 | 2026-08-08 | hn500.brntn.me |
 | 2026-08-15 | news.ycombinator.com |
-| 2026-08-21 | brntn.me |
-| 2026-08-21 | www.brntn.me |
 | 2026-08-22 | runrandomly.com |
 | 2026-08-22 | www.runrandomly.com |
 | 2026-08-22 | requestheaders.dev |
 | 2026-08-22 | www.requestheaders.dev |
 | 2026-08-29 | example.com |
 | 2026-08-30 | fastmail.com |
+| 2026-09-02 | brntn.me |
+| 2026-09-02 | www.brntn.me |
 | 2026-11-21 | abc.net.au |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
