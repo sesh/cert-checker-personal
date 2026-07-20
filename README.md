@@ -26,8 +26,6 @@ Use this template to create a version of the project in your Github account, the
 | 2026-09-04 | utils.brntn.me |
 | 2026-09-05 | runrandomly.com |
 | 2026-09-05 | www.runrandomly.com |
-| 2026-09-20 | requestheaders.dev |
-| 2026-09-20 | www.requestheaders.dev |
 | 2026-10-05 | basehtml.xyz |
 | 2026-10-05 | www.basehtml.xyz |
 | 2026-10-12 | fastmail.com |
@@ -45,3 +43,5 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | clues.webdevctf.com |
 | UnknownSSLFailure | django-up.com |
 | UnknownSSLFailure | www.django-up.com |
+| UnknownSSLFailure | requestheaders.dev |
+| UnknownSSLFailure | www.requestheaders.dev |
