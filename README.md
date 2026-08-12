@@ -25,11 +25,11 @@ Use this template to create a version of the project in your Github account, the
 | 2026-10-12 | fastmail.com |
 | 2026-10-17 | news.ycombinator.com |
 | 2026-10-27 | example.com |
-| 2026-10-31 | brntn.me |
-| 2026-10-31 | www.brntn.me |
 | 2026-11-03 | utils.brntn.me |
 | 2026-11-03 | runrandomly.com |
 | 2026-11-04 | www.runrandomly.com |
+| 2026-11-10 | brntn.me |
+| 2026-11-10 | www.brntn.me |
 | 2026-11-21 | abc.net.au |
 | LookupFailed | bookmarks.brntn.me |
 | LookupFailed | hn500.brntn.me |
