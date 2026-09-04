@@ -20,8 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2026-10-05 | basehtml.xyz |
-| 2026-10-05 | www.basehtml.xyz |
 | 2026-10-12 | fastmail.com |
 | 2026-10-17 | news.ycombinator.com |
 | 2026-10-27 | example.com |
@@ -31,6 +29,8 @@ Use this template to create a version of the project in your Github account, the
 | 2026-11-10 | brntn.me |
 | 2026-11-10 | www.brntn.me |
 | 2026-11-21 | abc.net.au |
+| 2026-12-03 | basehtml.xyz |
+| 2026-12-03 | www.basehtml.xyz |
 | LookupFailed | bookmarks.brntn.me |
 | LookupFailed | hn500.brntn.me |
 | LookupFailed | loginwith.space |
