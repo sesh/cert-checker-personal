@@ -20,7 +20,6 @@ Use this template to create a version of the project in your Github account, the
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2026-11-10 | brntn.me |
 | 2026-11-21 | abc.net.au |
 | 2026-12-04 | basehtml.xyz |
 | 2026-12-04 | www.basehtml.xyz |
@@ -30,6 +29,7 @@ Use this template to create a version of the project in your Github account, the
 | 2027-01-01 | utils.brntn.me |
 | 2027-01-02 | runrandomly.com |
 | 2027-01-02 | www.runrandomly.com |
+| 2027-01-08 | brntn.me |
 | 2027-01-08 | www.brntn.me |
 | LookupFailed | bookmarks.brntn.me |
 | LookupFailed | hn500.brntn.me |
