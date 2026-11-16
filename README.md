@@ -35,13 +35,13 @@ Use this template to create a version of the project in your Github account, the
 | LookupFailed | hn500.brntn.me |
 | LookupFailed | loginwith.space |
 | LookupFailed | www.loginwith.space |
+| LookupFailed | django-up.com |
+| LookupFailed | www.django-up.com |
 | LookupFailed | dockerwatch.net |
 | LookupFailed | www.dockerwatch.net |
 | LookupFailed | delta-v.club |
 | LookupFailed | webdevctf.com |
 | LookupFailed | www.webdevctf.com |
 | LookupFailed | clues.webdevctf.com |
-| UnknownSSLFailure | django-up.com |
-| UnknownSSLFailure | www.django-up.com |
 | UnknownSSLFailure | requestheaders.dev |
 | UnknownSSLFailure | www.requestheaders.dev |
